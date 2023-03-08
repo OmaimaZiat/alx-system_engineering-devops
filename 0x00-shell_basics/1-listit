@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cst=$(ls)
+echo "the contents list of your current directory: $cst"
